@@ -2,7 +2,7 @@
   display: flex;
   align-items: center;
   padding: 20px 100px;
-  background-color: #feffd2;
+  background-color: rgba(255, 99, 71, 0.174);
   flex-wrap: wrap-reverse;
 }
 .dark .header {
